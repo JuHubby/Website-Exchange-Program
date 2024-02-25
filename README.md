@@ -16,7 +16,7 @@ npm install react-bootstrap bootstrap
 
 After that you should be able type 'npm start.' This will take you to your browser, allowing you to enjoy this cool application.
 
-Note: If you want to be able to use the pexel API, you will need to obtain your own API-KEY and added to the file PhotosPexelApi.js, in the line of Authorization.
+Note: If you want to be able to use the pexel API, you will need to obtain your own API-KEY and added to the file PhotosPexelApi.js, in the line of Authorization. [Pexels API Webpage] (https://www.pexels.com/api/)
 
 ## Roadmap of future improvements:
 There are numerous improvements and additions that can be implemented in this code. My goal is to introduce extra features to enhance interactivity, including the integration of Bootstrap React for styling. Additionally, I plan to implement more specific validations, such as verifying the existence of the email. I also aim to add handling for touch or blur, where validation will only be triggered if the user interacts with or moves through the input fields for username and password. I'll achieve this by continuing to use Formik libraries.
